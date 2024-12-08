@@ -19,8 +19,8 @@ A simple graphical calculator application built using Python's **Tkinter** libra
    
 2. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/KrishanYadav333/Calculator-App/tree/main>
+   cd <Calculator App Using Python>
    ```
 
 3. **Run the Calculator**:
@@ -51,6 +51,3 @@ A simple graphical calculator application built using Python's **Tkinter** libra
 - Special buttons (`+`, `-`, `*`, `/`, `^`, `C`, `<-`, `=`) are color-coded for easy identification.
 - A single entry field displays the user input and results.
 
----
-
-You can now paste this into your GitHub repository’s README section!
