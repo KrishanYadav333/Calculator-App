@@ -51,3 +51,5 @@ A simple graphical calculator application built using Python's **Tkinter** libra
 - Special buttons (`+`, `-`, `*`, `/`, `^`, `C`, `<-`, `=`) are color-coded for easy identification.
 - A single entry field displays the user input and results.
 
+  
+![output](https://github.com/user-attachments/assets/245d9348-2fb5-4390-988d-89c9f9c0b10a)
